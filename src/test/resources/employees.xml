@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<employees>
+    <employee>
+        <depCode>dep1</depCode>
+        <depJob>developer</depJob>
+        <description>it programmer</description>
+    </employee>
+    <employee>
+        <depCode>dep1</depCode>
+        <depJob>manager</depJob>
+        <description></description>
+    </employee>
+    <employee>
+        <depCode>dep2</depCode>
+        <depJob>developer</depJob>
+        <description>it programmer</description>
+    </employee>
+    <employee>
+        <depCode>dep2</depCode>
+        <depJob>accountant</depJob>
+        <description>a person whose job is to keep, inspect, and analyse financial accounts.</description>
+    </employee>
+    <employee>
+        <depCode>main</depCode>
+        <depJob>accountant</depJob>
+        <description>a person whose job is to keep, inspect, and analyse financial accounts.></description>
+    </employee>
+</employees>

@@ -12,5 +12,10 @@ public class SpringConsoleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringConsoleApplication.class, args);
+
+
+        while (true) {
+
+        }
     }
 }

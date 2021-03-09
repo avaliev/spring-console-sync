@@ -1,0 +1,42 @@
+[
+  {
+    "depCode": "dep1",
+    "depJob": "developer",
+    "description": "it programmer"
+  },
+  {
+    "depCode": "dep1",
+    "depJob": "manager",
+    "description": ""
+  },
+  {
+    "depCode": "dep2",
+    "depJob": "developer",
+    "description": "it programmer"
+  },
+  {
+    "depCode": "dep2",
+    "depJob": "accountant",
+    "description": "a person whose job is to keep, inspect, and analyse financial accounts."
+  },
+  {
+    "depCode": "main",
+    "depJob": "accountant",
+    "description": "a person whose job is to keep, inspect, and analyse financial accounts.>"
+  },
+  {
+    "depCode": "dep1-extra",
+    "depJob": "developer",
+    "description": "it programmer"
+  },
+  {
+    "depCode": "dep1-extra",
+    "depJob": "manager",
+    "description": ""
+  },
+  {
+    "depCode": "dep2-extra",
+    "depJob": "developer",
+    "description": "it programmer"
+  }
+]
